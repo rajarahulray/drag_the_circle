@@ -1,7 +1,7 @@
 # drag_the_circle
 
 ## About
-**drag_the_circle** is graphics program for dragging a circle across the screen using mouse cursor written in C language...... 
+**drag_the_circle** is graphics program for dragging a circle across the screen using mouse cursor written in C language.
 
 ## Instructions
 1. You must specify the location of your BGI directory at line 14 : initgraph(&g, &m, "location for BGI folder");
