@@ -11,7 +11,7 @@ void mop(int &xp,int &yp,int &cl)
 void main()
 {
 int g=DETECT,m,er,x,y,clk;
-initgraph(&g,&m,"c:\\turboc3\\bgi");
+initgraph(&g,&m,"c:\\turboc3\\bgi"); //Change "path to BGI directory" as per your BGI location.
 er=graphresult();
 if(er!=grOk)
 {
